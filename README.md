@@ -1,6 +1,7 @@
 - 👋 Hi, I’m @UplakshyaTyagi
 - 👀 I’m interested in learning
-- 🌱 I’m currently learning c++
+- 🌱 I’m currently learning many languages
+- 
 - 💞️ I’m looking to collaborate on gmail
 - 📫 How to reach me through my email tyagiuplakshya@gmail.com
 - 😄 Pronouns: ...
