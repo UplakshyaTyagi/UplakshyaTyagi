@@ -72,10 +72,10 @@ A heartfelt and well-designed private website for my parents, showcasing memorie
 - **Machine Learning & AI**: TensorFlow, Scikit-learn, PyTorch, NLP
 
 ## 📫 Let's Connect
-- 🔗 [LinkedIn](_will_be_updated_soon_)
-- 🐦 [Twitter](_will_be_updated_soon_)
-- 📧 [Gmail](tyagiuplakshya@gmail.com)
-- 🌐 [Portfolio](_will_be_updated_soon_)
+- 🔗 LinkedIn - _will_be_updated_soon_
+- 🐦 Twitter - _will_be_updated_soon_
+- 📧 Gmail - tyagiuplakshya@gmail.com
+- 🌐 Portfolio - _will_be_updated_soon_
 
 ---
 🚀 Passionate about innovation, collaboration, and creating technology that matters. Let's build something amazing together!
