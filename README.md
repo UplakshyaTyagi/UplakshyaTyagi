@@ -19,8 +19,8 @@ A conversational chatbot designed to assist users with queries in real-time.
 - Developed with **Python, Flask, and Dialogflow**.
 - Features **context-aware responses and adaptive learning capabilities**.
 
-### 🚀 Life Sync Platform _(Currently Working)_
-A comprehensive productivity tool featuring **Task Management, Health Tracking, and Expense Tracking**.
+### 🚀 Task Management Platform _(Currently Working)_
+A comprehensive productivity tool featuring **Task Management**.
 - Developed using **React, Node.js, and AWS EC2**.
 - Integrated **data visualization, manual tracking, and automated reminders**.
 - Provides a seamless user experience with **real-time updates and cloud synchronization**.
